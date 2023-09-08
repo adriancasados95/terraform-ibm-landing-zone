@@ -1,5 +1,3 @@
-<!-- BEGIN MODULE HOOK -->
-
 # IBM Secure Landing Zone module
 
 [![Graduated (Supported)](https://img.shields.io/badge/status-Graduated%20(Supported)-brightgreen?style=plastic)](https://terraform-ibm-modules.github.io/documentation/#/badge-status)
